@@ -9,4 +9,5 @@ We would like to thank the developers and maintainers of the open-source Python 
 GNU General Public License v3.0
 ## Citation
 The code is part of the following publication, which should be cited when using it:
+
 Braig, M.; Zeiler, P. (2025): A Study on Using Transfer Learning to Utilize Information from Similar Systems for Data-Driven Condition Diagnosis and Prognosis. IEEE Access, Volume xxx, pp. xxx - xxx, DOI: xxx
