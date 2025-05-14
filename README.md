@@ -1,6 +1,3 @@
-# Similar_System_Transfer_Learning
-Transfer Learning for Condition Diagnosis and Prognosis of Similar Systems
-
 # Transfer Learning for Condition Diagnosis and Prognosis of Similar Systems
 This repository implements a transfer learning pipeline for using data of similar systems for condition diagnosis and prognosis of engineering systems. 
 The core idea is to increase the amount of available training data by drawing on information from similar systems. Two methods of transfer learning are implemented: parameter transfer with fine-tuning and domain-adversarial training. Both methods can be used with different types of neural networks.
