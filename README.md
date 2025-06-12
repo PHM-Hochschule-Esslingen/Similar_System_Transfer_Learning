@@ -10,4 +10,4 @@ GNU General Public License v3.0
 ## Citation
 The code is part of the following publication, which have to be cited when using it:
 
-Braig, M.; Zeiler, P. (2025): A Study on Using Transfer Learning to Utilize Information from Similar Systems for Data-Driven Condition Diagnosis and Prognosis. IEEE Access, Volume xxx, pp. xxx - xxx, DOI: xxx
+Braig, M.; Zeiler, P. (2025): A Study on Using Transfer Learning to Utilize Information from Similar Systems for Data-Driven Condition Diagnosis and Prognosis. IEEE Access, Volume 13, pp. 98485-98503, DOI: 10.1109/ACCESS.2025.3576435
